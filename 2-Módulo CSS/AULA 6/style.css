@@ -1,0 +1,16 @@
+body{
+
+    background-color: rgb(189, 142, 167);
+}
+
+.pictureOne
+{
+    width: 200px;
+    border: 5px double #ffffffa4;
+    border-radius: 0% 50% 0% 50%;
+    margin: 10px 5px 5px 5px;
+    padding: 5px
+
+}
+
+

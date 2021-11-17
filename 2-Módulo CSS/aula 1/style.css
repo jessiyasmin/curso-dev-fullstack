@@ -1,0 +1,19 @@
+body{
+    background:bisque;
+}
+
+li {
+    color: darkred;
+}
+
+.red{
+    color:red;
+}
+
+.pictureOne{
+    width: 200px;
+}
+
+#meu-nome{
+    color:rgb(109, 48, 48)
+}

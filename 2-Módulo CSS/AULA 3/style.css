@@ -1,0 +1,13 @@
+body{
+    background-image: url(laurel.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 50% 50%; */
+    background-position: center center;
+    background-size: cover;
+    
+
+}
+
+.pictureone{
+    width: 200px;
+}

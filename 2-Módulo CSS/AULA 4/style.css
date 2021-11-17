@@ -1,0 +1,33 @@
+body{
+    background-image: url(laurel.jpg);
+    background-position: center center;
+   /* background-position: 100% 15%; */
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#meu-nome{
+    color:rgb(61, 26, 26);
+}
+
+p{
+    color:rgb(61, 26, 26);
+}
+
+.pictureOne{
+   
+    width: 200px;
+}
+
+
+.pictureOne{
+    border: 4px double #ffffffa4;
+    
+    border-radius: 0% 50% 0% 50%;
+
+   /* border-width: 4px;
+    border-style: double;
+    border-color: #ffebcd; */
+
+
+}

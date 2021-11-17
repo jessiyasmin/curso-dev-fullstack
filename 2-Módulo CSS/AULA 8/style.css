@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(189, 142, 167);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.pictureOne{
+    width: 200px;
+   border: 5px double #ffffffa4;
+   border-radius: 0% 50% 0% 50%;
+   margin: 10px 5px 5px 5px;
+   box-shadow: 12px 12px 12px #ffffffa4;
+   padding: 5px
+}
+
+
+h1{
+    font-style: italic;
+    margin-bottom: 0;
+    text-shadow: 1px 1px white;
+    
+}
+
+h2{
+    margin-top: 0;
+    color: lavenderblush;
+    text-shadow: 2px 2px black;
+}
+
+.apresentacao{
+    color: #1f2020;
+}
+
+

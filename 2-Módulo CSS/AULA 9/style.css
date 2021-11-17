@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.pictureOne{
+    width: 150px;
+    border: 5px double #131212a4;
+    border-radius: 0; 
+    margin: 0;
+    padding: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+h1{
+    /* font-style: italic; */
+    margin-bottom: 0;
+    /* text-shadow: 2px 2px black; */
+    text-shadow: 0;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+}
+
+h2{
+    margin-top: 0;
+    color: rgb(165, 34, 78);
+    font-family: 'Playfair Display', serif;
+}
+
+.apresentacao{
+    color: #1f2020;
+}
+
+
